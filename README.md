@@ -7,3 +7,4 @@ It includes implementable ideas to help us cope with the crisis.
 - [Computational Genomics with R by Altuna Akalin](https://compgenomr.github.io/book/index.html)
 - [SARS-CoV-2 (Severe acute respiratory syndrome coronavirus 2) Sequences](https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/#nucleotide-sequences)
 - [SWISS-MODEL has modelled the full SARS-CoV-2 proteome](https://swissmodel.expasy.org/repository/species/2697049)
+- [Tool to vizualise protein sequences graphically](https://www.rcsb.org/pages/visualize_features#visualize_seq-proteinfeatures)
